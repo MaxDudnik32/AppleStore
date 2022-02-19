@@ -1,0 +1,16 @@
+.header {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.home-cart {
+    color: black;
+    font-size: 20px;
+}

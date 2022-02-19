@@ -1,0 +1,18 @@
+.phone-buy-price {
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    color: gray;
+}
+
+.phone-item-buy {
+    display: flex;
+    justify-content: center;
+    padding: 5px 25px;
+    border: 2px solid gray;
+    border-radius: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    width: 15%;
+    margin: 0 auto;
+}
